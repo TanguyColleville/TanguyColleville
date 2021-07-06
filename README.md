@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning advanced tensorflow skills for audio classification and maths for deep learning. 
 - 💞️ I’m looking to collaborate on data science. 
 - 📫 How to reach me : LinkedIn 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I'm teacher in mathematics, physics, engineering and computer science.
 - 🥅 2021 Goals : To give more help on stackoverflow or others forums.
 - ⚡ I love to read (philosophy, novel) and to listen music. 
 
@@ -23,3 +23,19 @@
 [<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" />]()
 [<img align="left" alt="Latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />]()
 [<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />]()
+
+
+## Future projects on which i want to work ? 
+- Generate music thanks to variational autoencoders.
+- Generate images thanks to GAN and derivatives. 
+
+## Skills that i want to improve ? 
+- Dive more deeply in HPC than what i did during my project on earthquakes forecasting
+- Getting experienced in time series forecasting and Deep learning
+- Be more confortable with Docker Image and Server computation
+
+## How I stay up to date and cultivate myself around datascience ? 
+- Bedside book : Hand On Machine Learning, by Aurélien Géron
+- Médium & TowardDatscience 
+- Keep exchanging with my collegues
+- Stanford & MIT opencourses
