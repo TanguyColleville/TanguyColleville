@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on data science. 
 - 📫 How to reach me : LinkedIn 
 - 🔭 I'm teacher in mathematics, physics, engineering and computer science.
-- 🥅 2021 Goals : To give more help on stackoverflow or others forums.
+- 🥅 2021 Goals : To give more help on stackoverflow or other forums.
 - ⚡ I love to read (philosophy, novel) and to listen music. 
 
 
