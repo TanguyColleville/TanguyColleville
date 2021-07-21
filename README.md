@@ -26,11 +26,11 @@
 
  /
 
-## Future projects on which i want to work ? 
+## Future projects I want to work on ? 
 - Generate music thanks to variational autoencoders.
 - Generate images thanks to GAN and derivatives. 
 
-## Skills that i want to improve ? 
+## Skills that I want to improve ? 
 - Dive more deeply in HPC than what i did during my project on earthquakes forecasting
 - Getting experienced in time series forecasting and Deep learning
 - Be more confortable with Docker Image and Server computation
