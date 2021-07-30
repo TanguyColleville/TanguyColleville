@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning advanced tensorflow skills for audio classification and maths for deep learning. 
 - 💞️ I’m looking to collaborate on data science. 
 - 📫 How to reach me : LinkedIn 
-- 🔭 I'm private teacher in mathematics, physics, engineering and computer science.
+- 🔭 I'm a private teacher in mathematics, physics, engineering and computer science.
 - 🥅 2021 Goals : To give more help on stackoverflow or other forums.
 - ⚡ I love to read (philosophy, novel) and to listen music. 
 
@@ -31,9 +31,9 @@
 - Generate images thanks to GAN and derivatives. 
 
 ## Skills that I want to improve ? 
-- Dive more deeply in HPC than what i did during my project on earthquakes forecasting
+- Dive more deeply into HPC than what I did during my project on earthquakes forecasting
 - Getting experienced in time series forecasting and Deep learning
-- Be more confortable with Docker Image and Server computation
+- Be more comfortable with Docker Image and Server computation
 
 ## How I stay up to date and cultivate myself around datascience ? 
 - :books: Bedside book : Hand On Machine Learning, by Aurélien Géron
