@@ -35,7 +35,7 @@
 - Getting experienced in time series forecasting and Deep learning
 - Be more comfortable with Docker Image and Server computation
 
-## How I stay up to date and cultivate myself around datascience ? 
+## How I stay up to date and cultivate myself around data science ? 
 - :books: Bedside book : Hand On Machine Learning, by Aurélien Géron
 - :rocket: Médium & Toward Datascience 
 - :computer: Papers with code 
