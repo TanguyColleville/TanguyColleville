@@ -37,8 +37,9 @@
 
 ## How I stay up to date and cultivate myself around datascience ? 
 - :books: Bedside book : Hand On Machine Learning, by Aurélien Géron
-- :rocket: Médium & TowardDatscience 
+- :rocket: Médium & Toward Datascience 
 - :computer: Papers with code 
 - :mortar_board: Google Scholar
+- :nerd_face: Arxiv
 - :globe_with_meridians: Keep exchanging with my collegues
 - :classical_building: Stanford & MIT opencourses
