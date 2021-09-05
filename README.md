@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Tanguy Colleville, student in Computer Science and Applied Mathematics at CentraleSupélec
-[<img align="center" alt="https://www.linkedin.com/in/tanguy-colleville-235bb2177/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanguy-colleville-235bb2177/)
+[<img align="center" alt="https://www.linkedin.com/in/tanguy-colleville-235bb2177/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanguy-colleville/)
 
 
 - 👀 I’m interested in Machine learning & Deep learning in various application field namely Finance. 
