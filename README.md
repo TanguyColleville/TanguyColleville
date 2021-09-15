@@ -23,9 +23,13 @@
 [<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" />]()
 [<img align="left" alt="Latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />]()
 [<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />]()  
+/
 [<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />]()  
-
- /
+[<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />]() 
+[<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" />]() 
+[<img align="left" alt="Markdown" width="26px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />]() 
+[<img align="left" alt="Markdown" width="26px" src="https://www.filytech.com/images/blog/s3.png" />]() 
+[<img align="left" alt="Markdown" width="26px" src="https://sysreseau.net/wp-content/uploads/2020/09/ec2-1.png" />]() 
 
 ## Future projects I want to work on ? 
 - Generate music thanks to variational autoencoders.
