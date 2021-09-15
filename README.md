@@ -11,7 +11,8 @@
 - ⚡ I love to read (philosophy, novel) and to listen music. 
 
 <img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="200px" align="left"/>
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="200px" />/
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="200px" />
+
 
 ## Languages and Tools:
 
