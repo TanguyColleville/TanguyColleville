@@ -54,8 +54,8 @@
 - Data science algorithms : information retrival etc.
 - year end-of-study project : 
 ## Education 
-<img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="250px"/>
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="250px" />
+<img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="250px" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="250px" align="left" />
 
 
 ## Future projects I want to work on ? 
