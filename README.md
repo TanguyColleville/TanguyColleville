@@ -31,6 +31,29 @@
 [<img align="left" alt="Markdown" width="30px" src="https://www.filytech.com/images/blog/s3.png" />]() 
 [<img align="left" alt="Markdown" width="30px" src="https://sysreseau.net/wp-content/uploads/2020/09/ec2-1.png" />]() /
 
+## Attended courses on the mathematical side : 
+- Machine Learning 
+- Statistical models & statistical learning theory
+- Reinforcement learning
+- Time series in finance
+- Game theory 
+- Signal processing 
+- Partial differential equation
+- Probability, integration, convergence
+- 
+## Attented courses on the computer science side : 
+- Networks and security 
+- Computational models for Big Data
+- Software application engineering
+- Advanced Python and Advanced C++
+
+## Attended courses on the Data science side : 
+- NLP 
+- CV 
+- Sound processing
+- Data science algorithms : information retrival etc.
+- year end-of-study project : 
+
 ## Future projects I want to work on ? 
 - Generate music thanks to variational autoencoders.
 - Generate images thanks to GAN and derivatives. 
