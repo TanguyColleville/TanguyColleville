@@ -40,7 +40,7 @@
 - Signal processing 
 - Partial differential equation
 - Probability, integration, convergence
-- 
+
 ## Attented courses on the computer science side : 
 - Networks and security 
 - Computational models for Big Data
