@@ -2,9 +2,6 @@
 [<img align="center" alt="https://www.linkedin.com/in/tanguy-colleville-235bb2177/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanguy-colleville/)
 
 
-<img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="200px" align="left"/>
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="200px" align="right"/>
-
 - 👀 I’m interested in Machine learning & Deep learning in various application field namely Finance. 
 - 🌱 I’m currently learning advanced tensorflow skills for audio classification and maths for deep learning. 
 - 💞️ I’m looking to collaborate on data science. 
@@ -13,7 +10,8 @@
 - 🥅 2021 Goals : To give more help on stackoverflow or other forums.
 - ⚡ I love to read (philosophy, novel) and to listen music. 
 
-
+<img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="200px" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="200px"/>
 
 ## Languages and Tools:
 
