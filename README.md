@@ -8,7 +8,7 @@
 - 📫 How to reach me : LinkedIn, tanguy.colleville@student-cs.fr
 - 🔭 I'm a private teacher in mathematics, physics, engineering and computer science.
 - 🥅 2021 Goals : To give more help on stackoverflow or other forums.
-- ⚡ I love to read (philosophy, novel) and to listen music. 
+- ⚡ I love to read (philosophy, novel) and to listen to music. 
 
 <img src="https://artsetmetiers.fr/sites/site_internet/files/2019-08/Logo_couleur_RVB.png" width="200px" align="left"/>
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/1280px-Logo_CentraleSupélec.svg.png" width="200px"/>
@@ -39,12 +39,14 @@
 - Reinforcement learning
 - Time series in finance
 - Game theory 
+- Stochastic calculus
 - Signal processing 
 - Partial differential equation
 - Probability, integration, convergence
 
 ## Attented courses on the computer science side : 
 - Networks and security 
+- DevOps
 - Computational models for Big Data
 - Software application engineering
 - Advanced Python and Advanced C++
@@ -52,9 +54,10 @@
 ## Attended courses on the Data science side : 
 - NLP 
 - CV 
+- Deep Learning and Machine Learning
 - Sound processing
 - Data science algorithms : information retrival etc.
-- year end-of-study project : 
+- year end-of-study project : NLP for cobol autocompletion
 
 
 ## Future projects I want to work on ? 
